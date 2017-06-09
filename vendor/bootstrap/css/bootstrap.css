@@ -1416,10 +1416,10 @@ a.bg-danger:focus {
   margin: 40px 0 20px;
   border-bottom: 1px solid #eee;
 }
-ul,
-ol {
-  margin-top: 0;
-  margin-bottom: 10px;
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 100px;
+    list-style: none;
 }
 ul ul,
 ol ul,
